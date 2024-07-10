@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OnlinePC", "OnlinePC\OnlinePC.vcproj", "{B7C12F7F-8BF5-4872-819B-7A4B52EEFD39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HCOPY", "HCOPY\HCOPY.vcproj", "{B3ADD7EF-20D2-489F-8811-66AC7D998C4B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HCOPYDLL", "HCOPYDLL\HCOPYDLL.vcproj", "{ECCFD44E-7519-49C6-9FCE-82176C29C8F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chart3D", "OnlinePC\Chart3D\Chart3D.vcproj", "{D4CB6A02-7EE4-464C-BBF3-1AB421A5248D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TMap", "OnlinePC\TMap\TMap.vcproj", "{610D0C3B-78BB-4E46-809D-0BE61D29AEB2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Install\Setup\Setup.vdproj", "{C3A90FF7-C148-42A2-ACC4-756A3D9DF864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C12F7F-8BF5-4872-819B-7A4B52EEFD39}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7C12F7F-8BF5-4872-819B-7A4B52EEFD39}.Debug|Win32.Build.0 = Debug|Win32
+		{B7C12F7F-8BF5-4872-819B-7A4B52EEFD39}.Release|Win32.ActiveCfg = Release|Win32
+		{B7C12F7F-8BF5-4872-819B-7A4B52EEFD39}.Release|Win32.Build.0 = Release|Win32
+		{B3ADD7EF-20D2-489F-8811-66AC7D998C4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B3ADD7EF-20D2-489F-8811-66AC7D998C4B}.Debug|Win32.Build.0 = Debug|Win32
+		{B3ADD7EF-20D2-489F-8811-66AC7D998C4B}.Release|Win32.ActiveCfg = Release|Win32
+		{B3ADD7EF-20D2-489F-8811-66AC7D998C4B}.Release|Win32.Build.0 = Release|Win32
+		{ECCFD44E-7519-49C6-9FCE-82176C29C8F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECCFD44E-7519-49C6-9FCE-82176C29C8F1}.Debug|Win32.Build.0 = Debug|Win32
+		{ECCFD44E-7519-49C6-9FCE-82176C29C8F1}.Release|Win32.ActiveCfg = Release|Win32
+		{ECCFD44E-7519-49C6-9FCE-82176C29C8F1}.Release|Win32.Build.0 = Release|Win32
+		{D4CB6A02-7EE4-464C-BBF3-1AB421A5248D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4CB6A02-7EE4-464C-BBF3-1AB421A5248D}.Debug|Win32.Build.0 = Debug|Win32
+		{D4CB6A02-7EE4-464C-BBF3-1AB421A5248D}.Release|Win32.ActiveCfg = Release|Win32
+		{D4CB6A02-7EE4-464C-BBF3-1AB421A5248D}.Release|Win32.Build.0 = Release|Win32
+		{610D0C3B-78BB-4E46-809D-0BE61D29AEB2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{610D0C3B-78BB-4E46-809D-0BE61D29AEB2}.Debug|Win32.Build.0 = Debug|Win32
+		{610D0C3B-78BB-4E46-809D-0BE61D29AEB2}.Release|Win32.ActiveCfg = Release|Win32
+		{610D0C3B-78BB-4E46-809D-0BE61D29AEB2}.Release|Win32.Build.0 = Release|Win32
+		{C3A90FF7-C148-42A2-ACC4-756A3D9DF864}.Debug|Win32.ActiveCfg = Debug
+		{C3A90FF7-C148-42A2-ACC4-756A3D9DF864}.Debug|Win32.Build.0 = Debug
+		{C3A90FF7-C148-42A2-ACC4-756A3D9DF864}.Release|Win32.ActiveCfg = Release
+		{C3A90FF7-C148-42A2-ACC4-756A3D9DF864}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

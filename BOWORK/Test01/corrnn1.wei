@@ -1,0 +1,9 @@
+#  Neural Net Structure :
+# The number of element in each layer is ...
+  2,  3,  1
+# Weight coefficients of 1th layer element are ...
+ -3.87524087E+000 -3.01408703E+000  3.58090283E+000
+ -2.85416250E+000 -5.38372549E-001  1.25041355E+000
+  2.82839397E+000  1.67638676E+000 -1.96716763E+000
+# Weight coefficients of 2th layer element are ...
+ -7.52167793E+000 -3.13062337E+000  5.08990092E+000  1.46461701E+000

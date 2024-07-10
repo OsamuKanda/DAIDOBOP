@@ -1,0 +1,17 @@
+;---------------------------------------------------------------------------
+;  HCOPY display hard copy
+;---------------------------------------------------------------------------
+
+NAME	    HCOPY
+DESCRIPTION 'BO hard copy Program  1995'
+EXETYPE     WINDOWS
+STUB        'WINSTUB.EXE'
+CODE        MOVEABLE PRELOAD
+DATA        MOVEABLE MULTIPLE PRELOAD
+HEAPSIZE    512
+STACKSIZE   5120
+
+
+EXPORTS
+	 HookSampleWndProc	@1
+
